@@ -5,3 +5,4 @@ The goal is to play Vishnu Sahasaranama and also have a window open to see the l
 and it auto scrolls depending on the audio progress
 
 Successfully created what I wanted.
+Just checking things
